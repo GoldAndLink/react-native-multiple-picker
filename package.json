@@ -11,7 +11,7 @@
     "url": "git+https://github.com/S4liz/react-native-multiple-picker.git"
   },
   "dependencies": {
-    "react-native-linear-gradient": "^2.3.0"
+    "react-native-linear-gradient": "^2.5.3"
   },
   "keywords": [
     "react-native",
